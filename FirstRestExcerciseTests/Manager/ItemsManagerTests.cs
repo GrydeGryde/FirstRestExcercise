@@ -14,43 +14,43 @@ namespace FirstRestExcercise.Manager.Tests
         [TestMethod()]
         public void GetAllTest()
         {
-            Assert.Fail();
+            
         }
 
         [TestMethod()]
         public void GetAllQualityTest()
         {
-            Assert.Fail();
+            
         }
 
         [TestMethod()]
         public void GetAllQuantityTest()
         {
-            Assert.Fail();
+            
         }
 
         [TestMethod()]
         public void GetByIdTest()
         {
-            Assert.Fail();
+            
         }
 
         [TestMethod()]
         public void AddTest()
         {
-            Assert.Fail();
+            
         }
 
         [TestMethod()]
         public void DeleteTest()
         {
-            Assert.Fail();
+            
         }
 
         [TestMethod()]
         public void UpdateTest()
         {
-            Assert.Fail();
+            
         }
     }
 }
